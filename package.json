@@ -1,0 +1,24 @@
+{
+  "name": "herokusw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "herokuSW.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node herokuSW.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondmullen/herokuSW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desmondmullen/herokuSW/issues"
+  },
+  "homepage": "https://github.com/desmondmullen/herokuSW#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
